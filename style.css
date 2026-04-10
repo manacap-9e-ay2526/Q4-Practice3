@@ -1,0 +1,6 @@
+html, body {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    flex-direction: column;
+    display: flex;  
+}
